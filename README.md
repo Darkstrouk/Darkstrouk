@@ -14,6 +14,3 @@
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-eadme-streak-stats.herokuapp.com?user=Darkstrouk&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
