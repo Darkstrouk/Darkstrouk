@@ -15,6 +15,5 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 eadme-streak-stats.herokuapp.com?user=Darkstrouk&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkstrouk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
